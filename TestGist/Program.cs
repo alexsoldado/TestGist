@@ -11,6 +11,7 @@ namespace TestGist
         static void Main(string[] args)
         {
             int p = 4;
+            String nombre;
         }
     }
 }
